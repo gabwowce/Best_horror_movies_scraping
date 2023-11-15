@@ -1,0 +1,12 @@
+Date: 2023-11-15
+
+Car Information:
+  Brand: Lexus
+  Model: -
+  Starting Year: 2000
+  Ending Year: 2006
+
+Price Statistics:
+  Largest Price €: 7500
+  Smallest Price €: 1800
+  Average Price €: 3976.54
