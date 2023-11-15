@@ -122,9 +122,9 @@ else:
         file.write(f"  Starting Year: {year_from}\n")
         file.write(f"  Ending Year: {ending_year}\n\n")
         file.write("Price Statistics:\n")
-        file.write(f"  Largest Price €: {largest_price}\n")
-        file.write(f"  Smallest Price €: {smallest_price}\n")
-        file.write(f"  Average Price €: {round(average_price, 2)}")
+        file.write(f"  Largest Price: € {largest_price}\n")
+        file.write(f"  Smallest Price: € {smallest_price}\n")
+        file.write(f"  Average Price: € {round(average_price, 2)}")
 
 driver.quit()
 
